@@ -1,0 +1,65 @@
+.button {
+    text-align: right;
+}
+
+.continue, #continue {
+    text-align: right;
+    margin: 10px;
+}
+
+html {
+    color: white;
+    font-family: Nunito;
+}
+
+body {
+    background: url('https://image.freepik.com/free-vector/strawberries-pattern-background_1431-10.jpg');
+}
+
+.beginning{
+    background-color: #d22323;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.flexOfTheBoxOne, .flexOfTheBoxTwo, .flexOfTheBoxThree {
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 15px;
+}
+
+.flexOfTheBoxOne {
+    background-color: #2b6334;
+}
+
+.flexOfTheBoxTwo {
+    background-color: #43b134;
+}
+
+.flexOfTheBoxThree {
+    background-color: #2b6334;
+}
+
+h1 {
+    background: #ff8372;
+    padding: 10px;
+    font-family: Playfair Display;
+}
+
+h4 {
+    background: #ff3030;
+    padding: 10px;
+}
+
+
+#estShip {
+    background: #43d134;
+    padding: 10px;
+}
